@@ -1,4 +1,7 @@
 # benjaminmartinezbernal
+Actividad 1: Estructura de Sitio Web
+Subirán su página (en caso de tener varios archivos, deberán ser compreso en un .rar) y solo será la estructura de su sitio web.
+
 Actividad 2: Subir Sitio web a Github
 Añadir una Captura de su repositorio y un block de notas con la URL de su repositorio en donde subieron su proyecto.
 
